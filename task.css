@@ -1,0 +1,13 @@
+.task-form-section {
+    text-align: center;
+     width: 40%; 
+     height: 360px;
+     background-color: white;
+     margin: auto;
+     border-radius: 5px;
+     font-size: 20px;
+} 
+
+.task-form-description > textarea {
+    resize: none;
+}
