@@ -36,7 +36,7 @@
 }
 
 .register-form-submit-btn {
-    margin-top: 45px;
+    margin-top: 25px;
 }
 
 .register-form-submit-btn > input:hover {
@@ -63,6 +63,11 @@ color: red;
 
 .already-registered-text-article > a:hover {
     color: rgb(141, 112, 112);
+}
+
+.error-text {
+    color: red;
+    margin-top: 15px;
 }
 
 
